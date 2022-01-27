@@ -227,5 +227,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Travel Agency Server is working on the port :', port);
+    console.log('Travel Agency Server is running on the port :', port);
 })

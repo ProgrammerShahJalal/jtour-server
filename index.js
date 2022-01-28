@@ -227,5 +227,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('JTour Travel Server is running on the port :', port);
+    console.log('JTour Server is running on the port :', port);
 })
